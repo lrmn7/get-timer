@@ -1,0 +1,18 @@
+{
+  "name": "get-timer",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Discord bot for creating timers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lrmn7",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "millisecond": "^0.1.2"
+  }
+}
